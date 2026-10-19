@@ -1,0 +1,9 @@
+{
+  "name": "PILLARS Concert Setlist",
+  "short_name": "PILLARS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060607",
+  "theme_color": "#b8ff5a",
+  "description": "Messier 16 concert setlist and Cortex cues."
+}
